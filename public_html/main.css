@@ -1,0 +1,39 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 15-jul-2020, 9:30:39
+    Author     : blueboxrecepcion
+*/
+body {
+     margin: 100px auto;
+	text-align: center;
+         width: 400px;
+         background-image: url("https://w.wallhaven.cc/full/md/wallhaven-md5z28.jpg");
+         background-repeat: no-repeat;
+         background-size: cover;
+         background-position: center center;
+         background-attachment: fixed;
+ 
+        
+}
+h1 {
+	margin-bottom: 30px;
+        color: white;
+}
+strong, img {
+	display: block;
+}
+img {
+	margin: 0 auto;
+	border-radius: 10px;
+        
+}
+#logout {
+	margin-top: 10px;
+}
+
+
+
